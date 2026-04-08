@@ -1,4 +1,4 @@
-const API = process.env.API_BASE || 'http://localhost:5000/api';
+const API = process.env.API_BASE || 'https://expense-sharing-backend-4gsh.onrender.com/api';
 
 async function req(path, options = {}) {
   const res = await fetch(`${API}${path}`, options);
