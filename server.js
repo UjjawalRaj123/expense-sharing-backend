@@ -13,6 +13,7 @@ const corsOptions = {
       'http://localhost:3001',
       'https://expense-sharing-frontend.vercel.app',
       'https://expense-sharing-application-frontend.vercel.app',
+      'https://expense-sharing-unique-application.vercel.app',
       process.env.FRONTEND_URL
     ].filter(Boolean);
 
