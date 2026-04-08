@@ -14,7 +14,7 @@ const corsOptions = {
       'https://expense-sharing-frontend.vercel.app',
       'https://expense-sharing-application-frontend.vercel.app',
       'https://expense-sharing-unique-application.vercel.app',
-      'https://expense-sharing-q13edm.vercel.app',
+      'https://expense-sharing-frontend-xrt2.vercel.app',
       process.env.FRONTEND_URL
     ].filter(Boolean);
 
